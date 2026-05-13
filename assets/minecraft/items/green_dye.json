@@ -8,7 +8,7 @@
   },
   "cases": [
    {
-    "when": "rolledmap1",
+    "when": "empty",
     "model": {
      "type": "model",
      "model": "item/empty"
