@@ -1,0 +1,11 @@
+{
+    "providers": [
+        {"type":"space","advances":{"!":-1}},
+         {"type":"space","advances":{"?":-10}},
+         {"type":"space","advances":{"+":-30}},
+         {"type":"space","advances":{"_":1}},
+         {"type":"space","advances":{"-":10}},
+        
+         {"type":"bitmap","file":"font/guis/gui_map.png","chars":["a"],"ascent":17,"height":256}
+    ]
+}

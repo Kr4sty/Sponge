@@ -1,0 +1,33 @@
+{
+ "model": {
+  "type": "select",
+  "property": "custom_model_data",
+  "fallback": {
+   "type": "model",
+    "model": "item/clay_ball"
+  },
+  "cases": [
+   {
+    "when": "rolledmap1",
+    "model": {
+     "type": "model",
+     "model": "item/rolled_map/rolledmap1"
+    }
+   },
+   {
+    "when": "rolledmap2",
+    "model": {
+     "type": "model",
+     "model": "item/rolled_map/rolledmap2"
+    }
+   },
+   {
+    "when": "rolledmap3",
+    "model": {
+     "type": "model",
+     "model": "item/rolled_map/rolledmap3"
+    }
+   }
+  ]
+ }
+} 
