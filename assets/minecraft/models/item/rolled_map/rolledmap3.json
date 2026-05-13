@@ -3,7 +3,7 @@
 	"credit": "Made with Blockbench",
 	"texture_size": [256, 256],
 	"textures": {
-		"1": "item/rolled_map/maprolledstate1",
+		"1": "font/guis/gui_map",
 		"2": "item/rolled_map/maprolledstate1",
 		"particle": "item/rolled_map/maprolledstate1"
 	},
