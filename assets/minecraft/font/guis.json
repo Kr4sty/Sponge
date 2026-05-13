@@ -6,6 +6,6 @@
          {"type":"space","advances":{"_":1}},
          {"type":"space","advances":{"-":10}},
         
-         {"type":"bitmap","file":"font/guis/gui_map.png","chars":["a"],"ascent":17,"height":256}
+         {"type":"bitmap","file":"font/guis/gui_map.png","chars":["a"],"ascent":35,"height":256}
     ]
 }
