@@ -1,0 +1,19 @@
+{
+ "model": {
+  "type": "select",
+  "property": "custom_model_data",
+  "fallback": {
+   "type": "model",
+    "model": "item/oak_button"
+  },
+  "cases": [
+   {
+    "when": "shade",
+    "model": {
+     "type": "model",
+     "model": "item/custombeast/shade"
+    }
+   }
+  ]
+ }
+} 
