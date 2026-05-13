@@ -20,6 +20,13 @@
      "type": "model",
      "model": "item/rolled_map/rolledmap2"
     }
+   },
+    {
+    "when": "rolledmap3",
+    "model": {
+     "type": "model",
+     "model": "item/rolled_map/rolledmap3"
+    }
    }
   ]
  }
