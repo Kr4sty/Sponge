@@ -35,7 +35,7 @@
         },
         {
             "type": "bitmap",
-            "file": "font/lore_icons/summon_dmg_icon.png",
+            "file": "font/lore_icons/health_icon.png",
             "ascent": 8,
             "height": 10,
             "chars": [
@@ -44,7 +44,7 @@
         },
         {
             "type": "bitmap",
-            "file": "font/lore_icons/general_dmg_icon.png",
+            "file": "font/lore_icons/armor_icon.png",
             "ascent": 8,
             "height": 10,
             "chars": [
@@ -53,7 +53,7 @@
         },
         {
             "type": "bitmap",
-            "file": "font/lore_icons/health_icon.png",
+            "file": "font/lore_icons/movement_speed_icon.png",
             "ascent": 8,
             "height": 10,
             "chars": [
@@ -62,7 +62,7 @@
         },
         {
             "type": "bitmap",
-            "file": "font/lore_icons/armor_icon.png",
+            "file": "font/lore_icons/resistance_icon.png",
             "ascent": 8,
             "height": 10,
             "chars": [
@@ -71,7 +71,7 @@
         },
         {
             "type": "bitmap",
-            "file": "font/lore_icons/movement_speed_icon.png",
+            "file": "font/lore_icons/evasion_icon.png",
             "ascent": 8,
             "height": 10,
             "chars": [
@@ -80,7 +80,7 @@
         },
         {
             "type": "bitmap",
-            "file": "font/lore_icons/mana_icon.png",
+            "file": "font/lore_icons/ether_icon.png",
             "ascent": 8,
             "height": 10,
             "chars": [
@@ -89,7 +89,7 @@
         },
         {
             "type": "bitmap",
-            "file": "font/lore_icons/melee_speed_icon.png",
+            "file": "font/lore_icons/attack_speed_icon.png",
             "ascent": 8,
             "height": 10,
             "chars": [
@@ -98,7 +98,7 @@
         },
         {
             "type": "bitmap",
-            "file": "font/lore_icons/summon_slots_icon.png",
+            "file": "font/lore_icons/ammo_icon.png",
             "ascent": 8,
             "height": 10,
             "chars": [
@@ -107,7 +107,7 @@
         },
         {
             "type": "bitmap",
-            "file": "font/lore_icons/summon_health_icon.png",
+            "file": "font/lore_icons/leftclick_icon.png",
             "ascent": 8,
             "height": 10,
             "chars": [
@@ -116,29 +116,11 @@
         },
         {
             "type": "bitmap",
-            "file": "font/lore_icons/inflicted_icon.png",
-            "ascent": 8,
-            "height": 10,
-            "chars": [
-                    "m"
-                ]
-        },
-        {
-            "type": "bitmap",
             "file": "font/lore_icons/rightclick_icon.png",
             "ascent": 8,
             "height": 10,
             "chars": [
-                    "n"
-                ]
-        },
-        {
-            "type": "bitmap",
-            "file": "font/lore_icons/leftclick_icon.png",
-            "ascent": 8,
-            "height": 10,
-            "chars": [
-                    "o"
+                    "m"
                 ]
         }
        
