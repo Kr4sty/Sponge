@@ -1,0 +1,146 @@
+{
+    "providers": [
+        {"type":"space","advances":{"!":-1}},
+         {"type":"space","advances":{"?":-10}},
+         {"type":"space","advances":{"+":-30}},
+         {"type":"space","advances":{"_":1}},
+         {"type":"space","advances":{"-":10}},
+         {"type":"space","advances":{"*":-0.5}},
+        {
+            "type": "bitmap",
+            "file": "font/lore_icons/melee_dmg_icon.png",
+            "ascent": 8,
+            "height": 10,
+            "chars": [
+                    "a"
+                ]
+        },
+        {
+            "type": "bitmap",
+            "file": "font/lore_icons/ranged_dmg_icon.png",
+            "ascent": 8,
+            "height": 10,
+            "chars": [
+                    "b"
+                ]
+        },
+        {
+            "type": "bitmap",
+            "file": "font/lore_icons/magic_dmg_icon.png",
+            "ascent": 8,
+            "height": 10,
+            "chars": [
+                    "c"
+                ]
+        },
+        {
+            "type": "bitmap",
+            "file": "font/lore_icons/summon_dmg_icon.png",
+            "ascent": 8,
+            "height": 10,
+            "chars": [
+                    "d"
+                ]
+        },
+        {
+            "type": "bitmap",
+            "file": "font/lore_icons/general_dmg_icon.png",
+            "ascent": 8,
+            "height": 10,
+            "chars": [
+                    "e"
+                ]
+        },
+        {
+            "type": "bitmap",
+            "file": "font/lore_icons/health_icon.png",
+            "ascent": 8,
+            "height": 10,
+            "chars": [
+                    "f"
+                ]
+        },
+        {
+            "type": "bitmap",
+            "file": "font/lore_icons/armor_icon.png",
+            "ascent": 8,
+            "height": 10,
+            "chars": [
+                    "g"
+                ]
+        },
+        {
+            "type": "bitmap",
+            "file": "font/lore_icons/movement_speed_icon.png",
+            "ascent": 8,
+            "height": 10,
+            "chars": [
+                    "h"
+                ]
+        },
+        {
+            "type": "bitmap",
+            "file": "font/lore_icons/mana_icon.png",
+            "ascent": 8,
+            "height": 10,
+            "chars": [
+                    "i"
+                ]
+        },
+        {
+            "type": "bitmap",
+            "file": "font/lore_icons/melee_speed_icon.png",
+            "ascent": 8,
+            "height": 10,
+            "chars": [
+                    "j"
+                ]
+        },
+        {
+            "type": "bitmap",
+            "file": "font/lore_icons/summon_slots_icon.png",
+            "ascent": 8,
+            "height": 10,
+            "chars": [
+                    "k"
+                ]
+        },
+        {
+            "type": "bitmap",
+            "file": "font/lore_icons/summon_health_icon.png",
+            "ascent": 8,
+            "height": 10,
+            "chars": [
+                    "l"
+                ]
+        },
+        {
+            "type": "bitmap",
+            "file": "font/lore_icons/inflicted_icon.png",
+            "ascent": 8,
+            "height": 10,
+            "chars": [
+                    "m"
+                ]
+        },
+        {
+            "type": "bitmap",
+            "file": "font/lore_icons/rightclick_icon.png",
+            "ascent": 8,
+            "height": 10,
+            "chars": [
+                    "n"
+                ]
+        },
+        {
+            "type": "bitmap",
+            "file": "font/lore_icons/leftclick_icon.png",
+            "ascent": 8,
+            "height": 10,
+            "chars": [
+                    "o"
+                ]
+        }
+       
+    ]
+}
