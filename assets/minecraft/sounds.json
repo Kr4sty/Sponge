@@ -1,0 +1,11 @@
+{
+    "golem_hurt": {
+    "category": "master",
+    "sounds": [ "floor1/golem/golem_hurt" ]
+    },
+
+    "golem_death": {
+    "category": "master",
+    "sounds": [ "floor1/golem/golem_death" ]
+    }
+}
