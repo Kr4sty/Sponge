@@ -4,14 +4,14 @@
   "property": "custom_model_data",
   "fallback": {
    "type": "model",
-    "model": "item/red_dye"
+    "model": "item/mace"
   },
   "cases": [
    {
-    "when": "tungsten_dagger",
+    "when": "steel_greataxe",
     "model": {
      "type": "model",
-     "model": "item/weapons/tungsten_dagger"
+     "model": "item/weapons/steel_greataxe"
     }
    }
   ]
