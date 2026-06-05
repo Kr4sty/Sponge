@@ -1,0 +1,49 @@
+{
+	"textures": {
+		"0": "aj:blueprint/my_blueprint/lost_soul",
+		"particle": "minecraft:item/pufferfish"
+	},
+	"display": {
+		"head": {
+			"rotation": [0, 180, 0]
+		}
+	},
+	"elements": [
+		{
+			"from": [4.04, 4.55, 4.53828],
+			"to": [11.96, 12.47, 12.45828],
+			"rotation": {
+				"x": 0,
+				"y": 0,
+				"z": 0,
+				"origin": [8, 8, 8]
+			},
+			"faces": {
+				"north": {
+					"uv": [1, 12, 2, 13],
+					"texture": "#0"
+				},
+				"east": {
+					"uv": [0, 12, 1, 13],
+					"texture": "#0"
+				},
+				"south": {
+					"uv": [3, 12, 4, 13],
+					"texture": "#0"
+				},
+				"west": {
+					"uv": [2, 12, 3, 13],
+					"texture": "#0"
+				},
+				"up": {
+					"uv": [2, 12, 1, 11],
+					"texture": "#0"
+				},
+				"down": {
+					"uv": [3, 11, 2, 12],
+					"texture": "#0"
+				}
+			}
+		}
+	]
+}
