@@ -12,5 +12,10 @@
     "charred_scream": {
     "category": "master",
     "sounds": [ "floor1/charred/charred_scream" ]
+    },
+
+    "charred_boom": {
+    "category": "master",
+    "sounds": [ "floor1/charred/charred_boom" ]
     }
 }
