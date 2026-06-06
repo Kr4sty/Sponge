@@ -7,5 +7,10 @@
     "golem_death": {
     "category": "master",
     "sounds": [ "floor1/golem/golem_death" ]
+    },
+
+    "charred_scream": {
+    "category": "master",
+    "sounds": [ "floor1/charred/charred_scream" ]
     }
 }
