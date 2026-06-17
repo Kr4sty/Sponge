@@ -122,6 +122,24 @@
             "chars": [
                     "m"
                 ]
+        },
+        {
+            "type": "bitmap",
+            "file": "font/lore_icons/damage_icon.png",
+            "ascent": 8,
+            "height": 10,
+            "chars": [
+                    "n"
+                ]
+        },
+        {
+            "type": "bitmap",
+            "file": "font/lore_icons/heal_icon.png",
+            "ascent": 8,
+            "height": 10,
+            "chars": [
+                    "o"
+                ]
         }
        
     ]
