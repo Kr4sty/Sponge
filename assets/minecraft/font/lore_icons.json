@@ -140,6 +140,15 @@
             "chars": [
                     "o"
                 ]
+        },
+        {
+            "type": "bitmap",
+            "file": "font/lore_icons/fire_icon.png",
+            "ascent": 8,
+            "height": 10,
+            "chars": [
+                    "p"
+                ]
         }
        
     ]
