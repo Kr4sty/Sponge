@@ -143,11 +143,39 @@
         },
         {
             "type": "bitmap",
-            "file": "font/lore_icons/fire_icon.png",
+            "file": "font/lore_icons/reach_icon.png",
             "ascent": 8,
             "height": 10,
             "chars": [
                     "p"
+                ]
+        }
+        ,
+        {
+            "type": "bitmap",
+            "file": "font/lore_icons/fire_icon.png",
+            "ascent": 8,
+            "height": 10,
+            "chars": [
+                    "q"
+                ]
+        },
+        {
+            "type": "bitmap",
+            "file": "font/lore_icons/poison_icon.png",
+            "ascent": 8,
+            "height": 10,
+            "chars": [
+                    "r"
+                ]
+        },
+        {
+            "type": "bitmap",
+            "file": "font/lore_icons/money_icon.png",
+            "ascent": 8,
+            "height": 10,
+            "chars": [
+                    "s"
                 ]
         }
        
