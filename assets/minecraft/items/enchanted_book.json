@@ -1,0 +1,19 @@
+{
+ "model": {
+  "type": "select",
+  "property": "custom_model_data",
+  "fallback": {
+   "type": "model",
+    "model": "item/enchanted_book"
+  },
+  "cases": [
+   {
+    "when": "stump_stick",
+    "model": {
+     "type": "model",
+     "model": "item/weapons/stump_stick"
+    }
+   }
+  ]
+ }
+} 

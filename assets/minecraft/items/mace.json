@@ -13,6 +13,13 @@
      "type": "model",
      "model": "item/weapons/steel_greataxe"
     }
+   },
+    {
+    "when": "thunder_hammer",
+    "model": {
+     "type": "model",
+     "model": "item/weapons/thunder_hammer"
+    }
    }
   ]
  }
