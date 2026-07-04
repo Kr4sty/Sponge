@@ -34,6 +34,13 @@
      "type": "model",
      "model": "item/weapons/dwarven_drill"
     }
+   },
+    {
+    "when": "thorium_flamberge",
+    "model": {
+     "type": "model",
+     "model": "item/weapons/thorium_flamberge"
+    }
    }
   ]
  }

@@ -13,6 +13,13 @@
      "type": "model",
      "model": "item/weapons/tungsten_dagger"
     }
+   },
+    {
+    "when": "farm_sickle",
+    "model": {
+     "type": "model",
+     "model": "item/weapons/farm_sickle"
+    }
    }
   ]
  }

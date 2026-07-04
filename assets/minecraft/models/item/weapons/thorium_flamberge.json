@@ -1,0 +1,352 @@
+{
+	"format_version": "1.21.11",
+	"credit": "Made with Blockbench",
+	"textures": {
+		"1": "item/weapons/thorium_flamberge"
+	},
+	"elements": [
+		{
+			"name": "thorium_flamberge_0",
+			"from": [20, 12, 8],
+			"to": [24, 16, 9],
+			"rotation": {"x": 90, "y": 45, "z": 90, "origin": [8, 0, 8]},
+			"faces": {
+				"north": {"uv": [16, 0, 12, 4], "texture": "#1"},
+				"east": {"uv": [15, 0, 16, 4], "texture": "#1"},
+				"south": {"uv": [12, 0, 16, 4], "texture": "#1"},
+				"west": {"uv": [12, 0, 13, 4], "texture": "#1"},
+				"up": {"uv": [12, 0, 16, 1], "texture": "#1"},
+				"down": {"uv": [12, 3, 16, 4], "texture": "#1"}
+			}
+		},
+		{
+			"name": "thorium_flamberge_1",
+			"from": [18, 8, 8],
+			"to": [20, 15, 9],
+			"rotation": {"x": 90, "y": 45, "z": 90, "origin": [8, 0, 8]},
+			"faces": {
+				"north": {"uv": [12, 1, 10, 8], "texture": "#1"},
+				"east": {"uv": [11, 1, 12, 8], "texture": "#1"},
+				"south": {"uv": [10, 1, 12, 8], "texture": "#1"},
+				"west": {"uv": [10, 1, 11, 8], "texture": "#1"},
+				"up": {"uv": [10, 1, 12, 2], "texture": "#1"},
+				"down": {"uv": [10, 7, 12, 8], "texture": "#1"}
+			}
+		},
+		{
+			"name": "thorium_flamberge_2",
+			"from": [17, 5, 8],
+			"to": [18, 14, 9],
+			"rotation": {"x": 90, "y": 45, "z": 90, "origin": [8, 0, 8]},
+			"faces": {
+				"north": {"uv": [10, 2, 9, 11], "texture": "#1"},
+				"east": {"uv": [9, 2, 10, 11], "texture": "#1"},
+				"south": {"uv": [9, 2, 10, 11], "texture": "#1"},
+				"west": {"uv": [9, 2, 10, 11], "texture": "#1"},
+				"up": {"uv": [9, 2, 10, 3], "texture": "#1"},
+				"down": {"uv": [9, 10, 10, 11], "texture": "#1"}
+			}
+		},
+		{
+			"name": "thorium_flamberge_3",
+			"from": [11, 10, 8],
+			"to": [13, 13, 9],
+			"rotation": {"x": 90, "y": 45, "z": 90, "origin": [8, 0, 8]},
+			"faces": {
+				"north": {"uv": [5, 3, 3, 6], "texture": "#1"},
+				"east": {"uv": [4, 3, 5, 6], "texture": "#1"},
+				"south": {"uv": [3, 3, 5, 6], "texture": "#1"},
+				"west": {"uv": [3, 3, 4, 6], "texture": "#1"},
+				"up": {"uv": [3, 3, 5, 4], "texture": "#1"},
+				"down": {"uv": [3, 5, 5, 6], "texture": "#1"}
+			}
+		},
+		{
+			"name": "thorium_flamberge_4",
+			"from": [16, 1, 8],
+			"to": [17, 13, 9],
+			"rotation": {"x": 90, "y": 45, "z": 90, "origin": [8, 0, 8]},
+			"faces": {
+				"north": {"uv": [9, 3, 8, 15], "texture": "#1"},
+				"east": {"uv": [8, 3, 9, 15], "texture": "#1"},
+				"south": {"uv": [8, 3, 9, 15], "texture": "#1"},
+				"west": {"uv": [8, 3, 9, 15], "texture": "#1"},
+				"up": {"uv": [8, 3, 9, 4], "texture": "#1"},
+				"down": {"uv": [8, 14, 9, 15], "texture": "#1"}
+			}
+		},
+		{
+			"name": "thorium_flamberge_5",
+			"from": [10, 5, 8],
+			"to": [11, 12, 9],
+			"rotation": {"x": 90, "y": 45, "z": 90, "origin": [8, 0, 8]},
+			"faces": {
+				"north": {"uv": [3, 4, 2, 11], "texture": "#1"},
+				"east": {"uv": [2, 4, 3, 11], "texture": "#1"},
+				"south": {"uv": [2, 4, 3, 11], "texture": "#1"},
+				"west": {"uv": [2, 4, 3, 11], "texture": "#1"},
+				"up": {"uv": [2, 4, 3, 5], "texture": "#1"},
+				"down": {"uv": [2, 10, 3, 11], "texture": "#1"}
+			}
+		},
+		{
+			"name": "thorium_flamberge_6",
+			"from": [20, 10, 8],
+			"to": [23, 12, 9],
+			"rotation": {"x": 90, "y": 45, "z": 90, "origin": [8, 0, 8]},
+			"faces": {
+				"north": {"uv": [15, 4, 12, 6], "texture": "#1"},
+				"east": {"uv": [14, 4, 15, 6], "texture": "#1"},
+				"south": {"uv": [12, 4, 15, 6], "texture": "#1"},
+				"west": {"uv": [12, 4, 13, 6], "texture": "#1"},
+				"up": {"uv": [12, 4, 15, 5], "texture": "#1"},
+				"down": {"uv": [12, 5, 15, 6], "texture": "#1"}
+			}
+		},
+		{
+			"name": "thorium_flamberge_7",
+			"from": [9, 6, 8],
+			"to": [10, 11, 9],
+			"rotation": {"x": 90, "y": 45, "z": 90, "origin": [8, 0, 8]},
+			"faces": {
+				"north": {"uv": [2, 5, 1, 10], "texture": "#1"},
+				"east": {"uv": [1, 5, 2, 10], "texture": "#1"},
+				"south": {"uv": [1, 5, 2, 10], "texture": "#1"},
+				"west": {"uv": [1, 5, 2, 10], "texture": "#1"},
+				"up": {"uv": [1, 5, 2, 6], "texture": "#1"},
+				"down": {"uv": [1, 9, 2, 10], "texture": "#1"}
+			}
+		},
+		{
+			"name": "thorium_flamberge_8",
+			"from": [14, 1, 8],
+			"to": [16, 11, 9],
+			"rotation": {"x": 90, "y": 45, "z": 90, "origin": [8, 0, 8]},
+			"faces": {
+				"north": {"uv": [8, 5, 6, 15], "texture": "#1"},
+				"east": {"uv": [7, 5, 8, 15], "texture": "#1"},
+				"south": {"uv": [6, 5, 8, 15], "texture": "#1"},
+				"west": {"uv": [6, 5, 7, 15], "texture": "#1"},
+				"up": {"uv": [6, 5, 8, 6], "texture": "#1"},
+				"down": {"uv": [6, 14, 8, 15], "texture": "#1"}
+			}
+		},
+		{
+			"name": "thorium_flamberge_9",
+			"from": [11, 2, 8],
+			"to": [12, 10, 9],
+			"rotation": {"x": 90, "y": 45, "z": 90, "origin": [8, 0, 8]},
+			"faces": {
+				"north": {"uv": [4, 6, 3, 14], "texture": "#1"},
+				"east": {"uv": [3, 6, 4, 14], "texture": "#1"},
+				"south": {"uv": [3, 6, 4, 14], "texture": "#1"},
+				"west": {"uv": [3, 6, 4, 14], "texture": "#1"},
+				"up": {"uv": [3, 6, 4, 7], "texture": "#1"},
+				"down": {"uv": [3, 13, 4, 14], "texture": "#1"}
+			}
+		},
+		{
+			"name": "thorium_flamberge_10",
+			"from": [13, 2, 8],
+			"to": [14, 10, 9],
+			"rotation": {"x": 90, "y": 45, "z": 90, "origin": [8, 0, 8]},
+			"faces": {
+				"north": {"uv": [6, 6, 5, 14], "texture": "#1"},
+				"east": {"uv": [5, 6, 6, 14], "texture": "#1"},
+				"south": {"uv": [5, 6, 6, 14], "texture": "#1"},
+				"west": {"uv": [5, 6, 6, 14], "texture": "#1"},
+				"up": {"uv": [5, 6, 6, 7], "texture": "#1"},
+				"down": {"uv": [5, 13, 6, 14], "texture": "#1"}
+			}
+		},
+		{
+			"name": "thorium_flamberge_11",
+			"from": [20, 9, 8],
+			"to": [22, 10, 9],
+			"rotation": {"x": 90, "y": 45, "z": 90, "origin": [8, 0, 8]},
+			"faces": {
+				"north": {"uv": [14, 6, 12, 7], "texture": "#1"},
+				"east": {"uv": [13, 6, 14, 7], "texture": "#1"},
+				"south": {"uv": [12, 6, 14, 7], "texture": "#1"},
+				"west": {"uv": [12, 6, 13, 7], "texture": "#1"},
+				"up": {"uv": [12, 6, 14, 7], "texture": "#1"},
+				"down": {"uv": [12, 6, 14, 7], "texture": "#1"}
+			}
+		},
+		{
+			"name": "thorium_flamberge_12",
+			"from": [12, 3, 8],
+			"to": [13, 9, 9],
+			"rotation": {"x": 90, "y": 45, "z": 90, "origin": [8, 0, 8]},
+			"faces": {
+				"north": {"uv": [5, 7, 4, 13], "texture": "#1"},
+				"east": {"uv": [4, 7, 5, 13], "texture": "#1"},
+				"south": {"uv": [4, 7, 5, 13], "texture": "#1"},
+				"west": {"uv": [4, 7, 5, 13], "texture": "#1"},
+				"up": {"uv": [4, 7, 5, 8], "texture": "#1"},
+				"down": {"uv": [4, 12, 5, 13], "texture": "#1"}
+			}
+		},
+		{
+			"name": "thorium_flamberge_13",
+			"from": [20, 8, 8],
+			"to": [21, 9, 9],
+			"rotation": {"x": 90, "y": 45, "z": 90, "origin": [8, 0, 8]},
+			"faces": {
+				"north": {"uv": [13, 7, 12, 8], "texture": "#1"},
+				"east": {"uv": [12, 7, 13, 8], "texture": "#1"},
+				"south": {"uv": [12, 7, 13, 8], "texture": "#1"},
+				"west": {"uv": [12, 7, 13, 8], "texture": "#1"},
+				"up": {"uv": [12, 7, 13, 8], "texture": "#1"},
+				"down": {"uv": [12, 7, 13, 8], "texture": "#1"}
+			}
+		},
+		{
+			"name": "thorium_flamberge_14",
+			"from": [18, 6, 8],
+			"to": [19, 8, 9],
+			"rotation": {"x": 90, "y": 45, "z": 90, "origin": [8, 0, 8]},
+			"faces": {
+				"north": {"uv": [11, 8, 10, 10], "texture": "#1"},
+				"east": {"uv": [10, 8, 11, 10], "texture": "#1"},
+				"south": {"uv": [10, 8, 11, 10], "texture": "#1"},
+				"west": {"uv": [10, 8, 11, 10], "texture": "#1"},
+				"up": {"uv": [10, 8, 11, 9], "texture": "#1"},
+				"down": {"uv": [10, 9, 11, 10], "texture": "#1"}
+			}
+		},
+		{
+			"name": "thorium_flamberge_15",
+			"from": [18, 3, 8],
+			"to": [21, 5, 9],
+			"rotation": {"x": 90, "y": 45, "z": 90, "origin": [8, 0, 8]},
+			"faces": {
+				"north": {"uv": [13, 11, 10, 13], "texture": "#1"},
+				"east": {"uv": [12, 11, 13, 13], "texture": "#1"},
+				"south": {"uv": [10, 11, 13, 13], "texture": "#1"},
+				"west": {"uv": [10, 11, 11, 13], "texture": "#1"},
+				"up": {"uv": [10, 11, 13, 12], "texture": "#1"},
+				"down": {"uv": [10, 12, 13, 13], "texture": "#1"}
+			}
+		},
+		{
+			"name": "thorium_flamberge_16",
+			"from": [10, 0, 8],
+			"to": [11, 4, 9],
+			"rotation": {"x": 90, "y": 45, "z": 90, "origin": [8, 0, 8]},
+			"faces": {
+				"north": {"uv": [3, 12, 2, 16], "texture": "#1"},
+				"east": {"uv": [2, 12, 3, 16], "texture": "#1"},
+				"south": {"uv": [2, 12, 3, 16], "texture": "#1"},
+				"west": {"uv": [2, 12, 3, 16], "texture": "#1"},
+				"up": {"uv": [2, 12, 3, 13], "texture": "#1"},
+				"down": {"uv": [2, 15, 3, 16], "texture": "#1"}
+			}
+		},
+		{
+			"name": "thorium_flamberge_17",
+			"from": [17, 1, 8],
+			"to": [18, 4, 9],
+			"rotation": {"x": 90, "y": 45, "z": 90, "origin": [8, 0, 8]},
+			"faces": {
+				"north": {"uv": [10, 12, 9, 15], "texture": "#1"},
+				"east": {"uv": [9, 12, 10, 15], "texture": "#1"},
+				"south": {"uv": [9, 12, 10, 15], "texture": "#1"},
+				"west": {"uv": [9, 12, 10, 15], "texture": "#1"},
+				"up": {"uv": [9, 12, 10, 13], "texture": "#1"},
+				"down": {"uv": [9, 14, 10, 15], "texture": "#1"}
+			}
+		},
+		{
+			"name": "thorium_flamberge_18",
+			"from": [8, 0, 8],
+			"to": [10, 3, 9],
+			"rotation": {"x": 90, "y": 45, "z": 90, "origin": [8, 0, 8]},
+			"faces": {
+				"north": {"uv": [2, 13, 0, 16], "texture": "#1"},
+				"east": {"uv": [1, 13, 2, 16], "texture": "#1"},
+				"south": {"uv": [0, 13, 2, 16], "texture": "#1"},
+				"west": {"uv": [0, 13, 1, 16], "texture": "#1"},
+				"up": {"uv": [0, 13, 2, 14], "texture": "#1"},
+				"down": {"uv": [0, 15, 2, 16], "texture": "#1"}
+			}
+		},
+		{
+			"name": "thorium_flamberge_19",
+			"from": [18, 2, 8],
+			"to": [20, 3, 9],
+			"rotation": {"x": 90, "y": 45, "z": 90, "origin": [8, 0, 8]},
+			"faces": {
+				"north": {"uv": [12, 13, 10, 14], "texture": "#1"},
+				"east": {"uv": [11, 13, 12, 14], "texture": "#1"},
+				"south": {"uv": [10, 13, 12, 14], "texture": "#1"},
+				"west": {"uv": [10, 13, 11, 14], "texture": "#1"},
+				"up": {"uv": [10, 13, 12, 14], "texture": "#1"},
+				"down": {"uv": [10, 13, 12, 14], "texture": "#1"}
+			}
+		},
+		{
+			"name": "thorium_flamberge_20",
+			"from": [18, 1, 8],
+			"to": [19, 2, 9],
+			"rotation": {"x": 90, "y": 45, "z": 90, "origin": [8, 0, 8]},
+			"faces": {
+				"north": {"uv": [11, 14, 10, 15], "texture": "#1"},
+				"east": {"uv": [10, 14, 11, 15], "texture": "#1"},
+				"south": {"uv": [10, 14, 11, 15], "texture": "#1"},
+				"west": {"uv": [10, 14, 11, 15], "texture": "#1"},
+				"up": {"uv": [10, 14, 11, 15], "texture": "#1"},
+				"down": {"uv": [10, 14, 11, 15], "texture": "#1"}
+			}
+		}
+	],
+	"gui_light": "front",
+	"display": {
+		"thirdperson_righthand": {
+			"rotation": [-10, 0, 0],
+			"translation": [-0.5, 1.5, 1.5],
+			"scale": [0.8, 0.8, 0.8]
+		},
+		"thirdperson_lefthand": {
+			"rotation": [-10, 0, 0],
+			"translation": [0.5, 1.5, 1.5],
+			"scale": [0.8, 0.8, 0.8]
+		},
+		"firstperson_righthand": {
+			"rotation": [-168.25, 0, -180],
+			"translation": [2.5, 0, 0],
+			"scale": [0.75, 0.75, 0.75]
+		},
+		"firstperson_lefthand": {
+			"rotation": [-168.25, 0, -180],
+			"translation": [1.75, 0, 0],
+			"scale": [0.75, 0.75, 0.75]
+		},
+		"ground": {
+			"rotation": [-45, 0, 0],
+			"translation": [0, 1.5, 0],
+			"scale": [0.66, 0.66, 0.66]
+		},
+		"gui": {
+			"rotation": [-90, -45, -90],
+			"translation": [-2.25, -2.25, 0]
+		},
+		"fixed": {
+			"rotation": [0, -90, 0],
+			"translation": [0, -2.75, 0],
+			"scale": [0.8, 0.8, 0.8]
+		},
+		"on_shelf": {
+			"rotation": [-180, 90, -180]
+		}
+	},
+	"groups": [
+		{
+			"name": "thorium_flamberge",
+			"origin": [8, 8, 8],
+			"scope": 0,
+			"color": 0,
+			"children": [0, 1, 2, 3, 4, 5, 6, 7, 8, 9, 10, 11, 12, 13, 14, 15, 16, 17, 18, 19, 20]
+		}
+	]
+}
