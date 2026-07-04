@@ -1,0 +1,47 @@
+{
+ "model": {
+  "type": "select",
+  "property": "custom_model_data",
+  "fallback": {
+   "type": "model",
+    "model": "item/iron_shovel"
+  },
+  "cases": [
+   {
+    "when": "sulphuric_broadsword",
+    "model": {
+     "type": "model",
+     "model": "item/weapons/sulphuric_broadsword"
+    }
+   },
+    {
+    "when": "excalibur",
+    "model": {
+     "type": "model",
+     "model": "item/weapons/excalibur"
+    }
+   },
+    {
+    "when": "bone_whip",
+    "model": {
+     "type": "model",
+     "model": "item/weapons/bone_whip"
+    }
+   },
+    {
+    "when": "tesla_edge",
+    "model": {
+     "type": "model",
+     "model": "item/weapons/tesla_edge"
+    }
+   },
+    {
+    "when": "steel_spear",
+    "model": {
+     "type": "model",
+     "model": "item/weapons/steel_spear"
+    }
+   }
+  ]
+ }
+} 

@@ -1,0 +1,339 @@
+{
+	"format_version": "1.21.11",
+	"credit": "Made with Blockbench",
+	"textures": {
+		"2": "item/weapons/excalibur",
+		"particle": "item/weapons/excalibur"
+	},
+	"elements": [
+		{
+			"name": "excalibur_0",
+			"from": [21, 13, 8],
+			"to": [24, 16, 9],
+			"rotation": {"x": 90, "y": 45, "z": 90, "origin": [8, 0, 8]},
+			"faces": {
+				"north": {"uv": [16, 0, 13, 3], "texture": "#2"},
+				"east": {"uv": [15, 0, 16, 3], "texture": "#2"},
+				"south": {"uv": [13, 0, 16, 3], "texture": "#2"},
+				"west": {"uv": [13, 0, 14, 3], "texture": "#2"},
+				"up": {"uv": [13, 0, 16, 1], "texture": "#2"},
+				"down": {"uv": [13, 2, 16, 3], "texture": "#2"}
+			}
+		},
+		{
+			"name": "excalibur_1",
+			"from": [19, 9, 8],
+			"to": [21, 15, 9],
+			"rotation": {"x": 90, "y": 45, "z": 90, "origin": [8, 0, 8]},
+			"faces": {
+				"north": {"uv": [13, 1, 11, 7], "texture": "#2"},
+				"east": {"uv": [12, 1, 13, 7], "texture": "#2"},
+				"south": {"uv": [11, 1, 13, 7], "texture": "#2"},
+				"west": {"uv": [11, 1, 12, 7], "texture": "#2"},
+				"up": {"uv": [11, 1, 13, 2], "texture": "#2"},
+				"down": {"uv": [11, 6, 13, 7], "texture": "#2"}
+			}
+		},
+		{
+			"name": "excalibur_2",
+			"from": [18, 7, 8],
+			"to": [19, 14, 9],
+			"rotation": {"x": 90, "y": 45, "z": 90, "origin": [8, 0, 8]},
+			"faces": {
+				"north": {"uv": [11, 2, 10, 9], "texture": "#2"},
+				"east": {"uv": [10, 2, 11, 9], "texture": "#2"},
+				"south": {"uv": [10, 2, 11, 9], "texture": "#2"},
+				"west": {"uv": [10, 2, 11, 9], "texture": "#2"},
+				"up": {"uv": [10, 2, 11, 3], "texture": "#2"},
+				"down": {"uv": [10, 8, 11, 9], "texture": "#2"}
+			}
+		},
+		{
+			"name": "excalibur_3",
+			"from": [17, 6, 8],
+			"to": [18, 13, 9],
+			"rotation": {"x": 90, "y": 45, "z": 90, "origin": [8, 0, 8]},
+			"faces": {
+				"north": {"uv": [10, 3, 9, 10], "texture": "#2"},
+				"east": {"uv": [9, 3, 10, 10], "texture": "#2"},
+				"south": {"uv": [9, 3, 10, 10], "texture": "#2"},
+				"west": {"uv": [9, 3, 10, 10], "texture": "#2"},
+				"up": {"uv": [9, 3, 10, 4], "texture": "#2"},
+				"down": {"uv": [9, 9, 10, 10], "texture": "#2"}
+			}
+		},
+		{
+			"name": "excalibur_4",
+			"from": [21, 11, 8],
+			"to": [23, 13, 9],
+			"rotation": {"x": 90, "y": 45, "z": 90, "origin": [8, 0, 8]},
+			"faces": {
+				"north": {"uv": [15, 3, 13, 5], "texture": "#2"},
+				"east": {"uv": [14, 3, 15, 5], "texture": "#2"},
+				"south": {"uv": [13, 3, 15, 5], "texture": "#2"},
+				"west": {"uv": [13, 3, 14, 5], "texture": "#2"},
+				"up": {"uv": [13, 3, 15, 4], "texture": "#2"},
+				"down": {"uv": [13, 4, 15, 5], "texture": "#2"}
+			}
+		},
+		{
+			"name": "excalibur_5",
+			"from": [16, 6, 8],
+			"to": [17, 12, 9],
+			"rotation": {"x": 90, "y": 45, "z": 90, "origin": [8, 0, 8]},
+			"faces": {
+				"north": {"uv": [9, 4, 8, 10], "texture": "#2"},
+				"east": {"uv": [8, 4, 9, 10], "texture": "#2"},
+				"south": {"uv": [8, 4, 9, 10], "texture": "#2"},
+				"west": {"uv": [8, 4, 9, 10], "texture": "#2"},
+				"up": {"uv": [8, 4, 9, 5], "texture": "#2"},
+				"down": {"uv": [8, 9, 9, 10], "texture": "#2"}
+			}
+		},
+		{
+			"name": "excalibur_6",
+			"from": [15, 1, 8],
+			"to": [16, 11, 9],
+			"rotation": {"x": 90, "y": 45, "z": 90, "origin": [8, 0, 8]},
+			"faces": {
+				"north": {"uv": [8, 5, 7, 15], "texture": "#2"},
+				"east": {"uv": [7, 5, 8, 15], "texture": "#2"},
+				"south": {"uv": [7, 5, 8, 15], "texture": "#2"},
+				"west": {"uv": [7, 5, 8, 15], "texture": "#2"},
+				"up": {"uv": [7, 5, 8, 6], "texture": "#2"},
+				"down": {"uv": [7, 14, 8, 15], "texture": "#2"}
+			}
+		},
+		{
+			"name": "excalibur_7",
+			"from": [21, 10, 8],
+			"to": [22, 11, 9],
+			"rotation": {"x": 90, "y": 45, "z": 90, "origin": [8, 0, 8]},
+			"faces": {
+				"north": {"uv": [14, 5, 13, 6], "texture": "#2"},
+				"east": {"uv": [13, 5, 14, 6], "texture": "#2"},
+				"south": {"uv": [13, 5, 14, 6], "texture": "#2"},
+				"west": {"uv": [13, 5, 14, 6], "texture": "#2"},
+				"up": {"uv": [13, 5, 14, 6], "texture": "#2"},
+				"down": {"uv": [13, 5, 14, 6], "texture": "#2"}
+			}
+		},
+		{
+			"name": "excalibur_8",
+			"from": [10, 5, 8],
+			"to": [12, 10, 9],
+			"rotation": {"x": 90, "y": 45, "z": 90, "origin": [8, 0, 8]},
+			"faces": {
+				"north": {"uv": [4, 6, 2, 11], "texture": "#2"},
+				"east": {"uv": [3, 6, 4, 11], "texture": "#2"},
+				"south": {"uv": [2, 6, 4, 11], "texture": "#2"},
+				"west": {"uv": [2, 6, 3, 11], "texture": "#2"},
+				"up": {"uv": [2, 6, 4, 7], "texture": "#2"},
+				"down": {"uv": [2, 10, 4, 11], "texture": "#2"}
+			}
+		},
+		{
+			"name": "excalibur_9",
+			"from": [14, 1, 8],
+			"to": [15, 10, 9],
+			"rotation": {"x": 90, "y": 45, "z": 90, "origin": [8, 0, 8]},
+			"faces": {
+				"north": {"uv": [7, 6, 6, 15], "texture": "#2"},
+				"east": {"uv": [6, 6, 7, 15], "texture": "#2"},
+				"south": {"uv": [6, 6, 7, 15], "texture": "#2"},
+				"west": {"uv": [6, 6, 7, 15], "texture": "#2"},
+				"up": {"uv": [6, 6, 7, 7], "texture": "#2"},
+				"down": {"uv": [6, 14, 7, 15], "texture": "#2"}
+			}
+		},
+		{
+			"name": "excalibur_10",
+			"from": [9, 5, 8],
+			"to": [10, 9, 9],
+			"rotation": {"x": 90, "y": 45, "z": 90, "origin": [8, 0, 8]},
+			"faces": {
+				"north": {"uv": [2, 7, 1, 11], "texture": "#2"},
+				"east": {"uv": [1, 7, 2, 11], "texture": "#2"},
+				"south": {"uv": [1, 7, 2, 11], "texture": "#2"},
+				"west": {"uv": [1, 7, 2, 11], "texture": "#2"},
+				"up": {"uv": [1, 7, 2, 8], "texture": "#2"},
+				"down": {"uv": [1, 10, 2, 11], "texture": "#2"}
+			}
+		},
+		{
+			"name": "excalibur_11",
+			"from": [19, 8, 8],
+			"to": [20, 9, 9],
+			"rotation": {"x": 90, "y": 45, "z": 90, "origin": [8, 0, 8]},
+			"faces": {
+				"north": {"uv": [12, 7, 11, 8], "texture": "#2"},
+				"east": {"uv": [11, 7, 12, 8], "texture": "#2"},
+				"south": {"uv": [11, 7, 12, 8], "texture": "#2"},
+				"west": {"uv": [11, 7, 12, 8], "texture": "#2"},
+				"up": {"uv": [11, 7, 12, 8], "texture": "#2"},
+				"down": {"uv": [11, 7, 12, 8], "texture": "#2"}
+			}
+		},
+		{
+			"name": "excalibur_12",
+			"from": [12, 3, 8],
+			"to": [14, 8, 9],
+			"rotation": {"x": 90, "y": 45, "z": 90, "origin": [8, 0, 8]},
+			"faces": {
+				"north": {"uv": [6, 8, 4, 13], "texture": "#2"},
+				"east": {"uv": [5, 8, 6, 13], "texture": "#2"},
+				"south": {"uv": [4, 8, 6, 13], "texture": "#2"},
+				"west": {"uv": [4, 8, 5, 13], "texture": "#2"},
+				"up": {"uv": [4, 8, 6, 9], "texture": "#2"},
+				"down": {"uv": [4, 12, 6, 13], "texture": "#2"}
+			}
+		},
+		{
+			"name": "excalibur_13",
+			"from": [11, 2, 8],
+			"to": [12, 5, 9],
+			"rotation": {"x": 90, "y": 45, "z": 90, "origin": [8, 0, 8]},
+			"faces": {
+				"north": {"uv": [4, 11, 3, 14], "texture": "#2"},
+				"east": {"uv": [3, 11, 4, 14], "texture": "#2"},
+				"south": {"uv": [3, 11, 4, 14], "texture": "#2"},
+				"west": {"uv": [3, 11, 4, 14], "texture": "#2"},
+				"up": {"uv": [3, 11, 4, 12], "texture": "#2"},
+				"down": {"uv": [3, 13, 4, 14], "texture": "#2"}
+			}
+		},
+		{
+			"name": "excalibur_14",
+			"from": [10, 1, 8],
+			"to": [11, 4, 9],
+			"rotation": {"x": 90, "y": 45, "z": 90, "origin": [8, 0, 8]},
+			"faces": {
+				"north": {"uv": [3, 12, 2, 15], "texture": "#2"},
+				"east": {"uv": [2, 12, 3, 15], "texture": "#2"},
+				"south": {"uv": [2, 12, 3, 15], "texture": "#2"},
+				"west": {"uv": [2, 12, 3, 15], "texture": "#2"},
+				"up": {"uv": [2, 12, 3, 13], "texture": "#2"},
+				"down": {"uv": [2, 14, 3, 15], "texture": "#2"}
+			}
+		},
+		{
+			"name": "excalibur_15",
+			"from": [16, 2, 8],
+			"to": [18, 4, 9],
+			"rotation": {"x": 90, "y": 45, "z": 90, "origin": [8, 0, 8]},
+			"faces": {
+				"north": {"uv": [10, 12, 8, 14], "texture": "#2"},
+				"east": {"uv": [9, 12, 10, 14], "texture": "#2"},
+				"south": {"uv": [8, 12, 10, 14], "texture": "#2"},
+				"west": {"uv": [8, 12, 9, 14], "texture": "#2"},
+				"up": {"uv": [8, 12, 10, 13], "texture": "#2"},
+				"down": {"uv": [8, 13, 10, 14], "texture": "#2"}
+			}
+		},
+		{
+			"name": "excalibur_16",
+			"from": [9, 0, 8],
+			"to": [10, 3, 9],
+			"rotation": {"x": 90, "y": 45, "z": 90, "origin": [8, 0, 8]},
+			"faces": {
+				"north": {"uv": [2, 13, 1, 16], "texture": "#2"},
+				"east": {"uv": [1, 13, 2, 16], "texture": "#2"},
+				"south": {"uv": [1, 13, 2, 16], "texture": "#2"},
+				"west": {"uv": [1, 13, 2, 16], "texture": "#2"},
+				"up": {"uv": [1, 13, 2, 14], "texture": "#2"},
+				"down": {"uv": [1, 15, 2, 16], "texture": "#2"}
+			}
+		},
+		{
+			"name": "excalibur_17",
+			"from": [13, 1, 8],
+			"to": [14, 3, 9],
+			"rotation": {"x": 90, "y": 45, "z": 90, "origin": [8, 0, 8]},
+			"faces": {
+				"north": {"uv": [6, 13, 5, 15], "texture": "#2"},
+				"east": {"uv": [5, 13, 6, 15], "texture": "#2"},
+				"south": {"uv": [5, 13, 6, 15], "texture": "#2"},
+				"west": {"uv": [5, 13, 6, 15], "texture": "#2"},
+				"up": {"uv": [5, 13, 6, 14], "texture": "#2"},
+				"down": {"uv": [5, 14, 6, 15], "texture": "#2"}
+			}
+		},
+		{
+			"name": "excalibur_18",
+			"from": [8, 0, 8],
+			"to": [9, 2, 9],
+			"rotation": {"x": 90, "y": 45, "z": 90, "origin": [8, 0, 8]},
+			"faces": {
+				"north": {"uv": [1, 14, 0, 16], "texture": "#2"},
+				"east": {"uv": [0, 14, 1, 16], "texture": "#2"},
+				"south": {"uv": [0, 14, 1, 16], "texture": "#2"},
+				"west": {"uv": [0, 14, 1, 16], "texture": "#2"},
+				"up": {"uv": [0, 14, 1, 15], "texture": "#2"},
+				"down": {"uv": [0, 15, 1, 16], "texture": "#2"}
+			}
+		},
+		{
+			"name": "excalibur_19",
+			"from": [16, 1, 8],
+			"to": [17, 2, 9],
+			"rotation": {"x": 90, "y": 45, "z": 90, "origin": [8, 0, 8]},
+			"faces": {
+				"north": {"uv": [9, 14, 8, 15], "texture": "#2"},
+				"east": {"uv": [8, 14, 9, 15], "texture": "#2"},
+				"south": {"uv": [8, 14, 9, 15], "texture": "#2"},
+				"west": {"uv": [8, 14, 9, 15], "texture": "#2"},
+				"up": {"uv": [8, 14, 9, 15], "texture": "#2"},
+				"down": {"uv": [8, 14, 9, 15], "texture": "#2"}
+			}
+		}
+	],
+	"gui_light": "front",
+	"display": {
+		"thirdperson_righthand": {
+			"rotation": [-10, 0, 0],
+			"translation": [-0.5, 1.5, 1.5],
+			"scale": [0.8, 0.8, 0.8]
+		},
+		"thirdperson_lefthand": {
+			"rotation": [-10, 0, 0],
+			"translation": [0.5, 1.5, 1.5],
+			"scale": [0.8, 0.8, 0.8]
+		},
+		"firstperson_righthand": {
+			"rotation": [-168.25, 0, -180],
+			"translation": [2.5, 0, 0],
+			"scale": [0.75, 0.75, 0.75]
+		},
+		"firstperson_lefthand": {
+			"rotation": [-168.25, 0, -180],
+			"translation": [1.75, 0, 0],
+			"scale": [0.75, 0.75, 0.75]
+		},
+		"ground": {
+			"rotation": [-45, 0, 0],
+			"translation": [0, 1.5, 0],
+			"scale": [0.66, 0.66, 0.66]
+		},
+		"gui": {
+			"rotation": [-90, -45, -90],
+			"translation": [-2.25, -2.25, 0]
+		},
+		"fixed": {
+			"rotation": [0, -90, 0],
+			"translation": [0, -2.75, 0],
+			"scale": [0.8, 0.8, 0.8]
+		},
+		"on_shelf": {
+			"rotation": [-180, 90, -180]
+		}
+	},
+	"groups": [
+		{
+			"name": "excalibur",
+			"origin": [8, 8, 8],
+			"scope": 0,
+			"color": 0,
+			"children": [0, 1, 2, 3, 4, 5, 6, 7, 8, 9, 10, 11, 12, 13, 14, 15, 16, 17, 18, 19]
+		}
+	]
+}

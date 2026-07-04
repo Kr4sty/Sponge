@@ -13,6 +13,13 @@
      "type": "model",
      "model": "item/weapons/stump_stick"
     }
+   },
+    {
+    "when": "ice_maiden",
+    "model": {
+     "type": "model",
+     "model": "item/weapons/ice_maiden"
+    }
    }
   ]
  }

@@ -4,7 +4,7 @@
   "property": "custom_model_data",
   "fallback": {
    "type": "model",
-    "model": "item/wooden_sword"
+    "model": "item/wooden_shovel"
   },
   "cases": [
    {

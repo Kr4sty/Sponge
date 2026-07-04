@@ -4,7 +4,7 @@
   "property": "custom_model_data",
   "fallback": {
    "type": "model",
-    "model": "item/mace"
+    "model": "item/diamond_shovel"
   },
   "cases": [
    {
@@ -19,6 +19,20 @@
     "model": {
      "type": "model",
      "model": "item/weapons/thunder_hammer"
+    }
+   },
+    {
+    "when": "void_greataxe",
+    "model": {
+     "type": "model",
+     "model": "item/weapons/void_greataxe"
+    }
+   },
+    {
+    "when": "dwarven_drill",
+    "model": {
+     "type": "model",
+     "model": "item/weapons/dwarven_drill"
     }
    }
   ]

@@ -1,0 +1,381 @@
+{
+	"format_version": "1.21.11",
+	"credit": "Made with Blockbench",
+	"textures": {
+		"1": "item/weapons/tesla_edge",
+		"particle": "item/weapons/excalibur"
+	},
+	"elements": [
+		{
+			"name": "tesla_edge_0",
+			"from": [18, 15, 8],
+			"to": [19, 16, 9],
+			"rotation": {"x": -90, "y": -45, "z": 90, "origin": [9, 0, 8]},
+			"faces": {
+				"north": {"uv": [10, 0, 9, 1], "texture": "#1"},
+				"east": {"uv": [9, 0, 10, 1], "texture": "#1"},
+				"south": {"uv": [9, 0, 10, 1], "texture": "#1"},
+				"west": {"uv": [9, 0, 10, 1], "texture": "#1"},
+				"up": {"uv": [9, 0, 10, 1], "texture": "#1"},
+				"down": {"uv": [9, 0, 10, 1], "texture": "#1"}
+			}
+		},
+		{
+			"name": "tesla_edge_1",
+			"from": [21, 12, 8],
+			"to": [25, 16, 9],
+			"rotation": {"x": -90, "y": -45, "z": 90, "origin": [9, 0, 8]},
+			"faces": {
+				"north": {"uv": [16, 0, 12, 4], "texture": "#1"},
+				"east": {"uv": [15, 0, 16, 4], "texture": "#1"},
+				"south": {"uv": [12, 0, 16, 4], "texture": "#1"},
+				"west": {"uv": [12, 0, 13, 4], "texture": "#1"},
+				"up": {"uv": [12, 0, 16, 1], "texture": "#1"},
+				"down": {"uv": [12, 3, 16, 4], "texture": "#1"}
+			}
+		},
+		{
+			"name": "tesla_edge_2",
+			"from": [14, 14, 8],
+			"to": [16, 15, 9],
+			"rotation": {"x": -90, "y": -45, "z": 90, "origin": [9, 0, 8]},
+			"faces": {
+				"north": {"uv": [7, 1, 5, 2], "texture": "#1"},
+				"east": {"uv": [6, 1, 7, 2], "texture": "#1"},
+				"south": {"uv": [5, 1, 7, 2], "texture": "#1"},
+				"west": {"uv": [5, 1, 6, 2], "texture": "#1"},
+				"up": {"uv": [5, 1, 7, 2], "texture": "#1"},
+				"down": {"uv": [5, 1, 7, 2], "texture": "#1"}
+			}
+		},
+		{
+			"name": "tesla_edge_3",
+			"from": [19, 8, 8],
+			"to": [21, 15, 9],
+			"rotation": {"x": -90, "y": -45, "z": 90, "origin": [9, 0, 8]},
+			"faces": {
+				"north": {"uv": [12, 1, 10, 8], "texture": "#1"},
+				"east": {"uv": [11, 1, 12, 8], "texture": "#1"},
+				"south": {"uv": [10, 1, 12, 8], "texture": "#1"},
+				"west": {"uv": [10, 1, 11, 8], "texture": "#1"},
+				"up": {"uv": [10, 1, 12, 2], "texture": "#1"},
+				"down": {"uv": [10, 7, 12, 8], "texture": "#1"}
+			}
+		},
+		{
+			"name": "tesla_edge_4",
+			"from": [14, 13, 8],
+			"to": [15, 14, 9],
+			"rotation": {"x": -90, "y": -45, "z": 90, "origin": [9, 0, 8]},
+			"faces": {
+				"north": {"uv": [6, 2, 5, 3], "texture": "#1"},
+				"east": {"uv": [5, 2, 6, 3], "texture": "#1"},
+				"south": {"uv": [5, 2, 6, 3], "texture": "#1"},
+				"west": {"uv": [5, 2, 6, 3], "texture": "#1"},
+				"up": {"uv": [5, 2, 6, 3], "texture": "#1"},
+				"down": {"uv": [5, 2, 6, 3], "texture": "#1"}
+			}
+		},
+		{
+			"name": "tesla_edge_5",
+			"from": [16, 6, 8],
+			"to": [19, 14, 9],
+			"rotation": {"x": -90, "y": -45, "z": 90, "origin": [9, 0, 8]},
+			"faces": {
+				"north": {"uv": [10, 2, 7, 10], "texture": "#1"},
+				"east": {"uv": [9, 2, 10, 10], "texture": "#1"},
+				"south": {"uv": [7, 2, 10, 10], "texture": "#1"},
+				"west": {"uv": [7, 2, 8, 10], "texture": "#1"},
+				"up": {"uv": [7, 2, 10, 3], "texture": "#1"},
+				"down": {"uv": [7, 9, 10, 10], "texture": "#1"}
+			}
+		},
+		{
+			"name": "tesla_edge_6",
+			"from": [21, 10, 8],
+			"to": [23, 12, 9],
+			"rotation": {"x": -90, "y": -45, "z": 90, "origin": [9, 0, 8]},
+			"faces": {
+				"north": {"uv": [14, 4, 12, 6], "texture": "#1"},
+				"east": {"uv": [13, 4, 14, 6], "texture": "#1"},
+				"south": {"uv": [12, 4, 14, 6], "texture": "#1"},
+				"west": {"uv": [12, 4, 13, 6], "texture": "#1"},
+				"up": {"uv": [12, 4, 14, 5], "texture": "#1"},
+				"down": {"uv": [12, 5, 14, 6], "texture": "#1"}
+			}
+		},
+		{
+			"name": "tesla_edge_7",
+			"from": [23, 11, 8],
+			"to": [24, 12, 9],
+			"rotation": {"x": -90, "y": -45, "z": 90, "origin": [9, 0, 8]},
+			"faces": {
+				"north": {"uv": [15, 4, 14, 5], "texture": "#1"},
+				"east": {"uv": [14, 4, 15, 5], "texture": "#1"},
+				"south": {"uv": [14, 4, 15, 5], "texture": "#1"},
+				"west": {"uv": [14, 4, 15, 5], "texture": "#1"},
+				"up": {"uv": [14, 4, 15, 5], "texture": "#1"},
+				"down": {"uv": [14, 4, 15, 5], "texture": "#1"}
+			}
+		},
+		{
+			"name": "tesla_edge_8",
+			"from": [14, 10, 8],
+			"to": [15, 11, 9],
+			"rotation": {"x": -90, "y": -45, "z": 90, "origin": [9, 0, 8]},
+			"faces": {
+				"north": {"uv": [6, 5, 5, 6], "texture": "#1"},
+				"east": {"uv": [5, 5, 6, 6], "texture": "#1"},
+				"south": {"uv": [5, 5, 6, 6], "texture": "#1"},
+				"west": {"uv": [5, 5, 6, 6], "texture": "#1"},
+				"up": {"uv": [5, 5, 6, 6], "texture": "#1"},
+				"down": {"uv": [5, 5, 6, 6], "texture": "#1"}
+			}
+		},
+		{
+			"name": "tesla_edge_9",
+			"from": [13, 9, 8],
+			"to": [14, 10, 9],
+			"rotation": {"x": -90, "y": -45, "z": 90, "origin": [9, 0, 8]},
+			"faces": {
+				"north": {"uv": [5, 6, 4, 7], "texture": "#1"},
+				"east": {"uv": [4, 6, 5, 7], "texture": "#1"},
+				"south": {"uv": [4, 6, 5, 7], "texture": "#1"},
+				"west": {"uv": [4, 6, 5, 7], "texture": "#1"},
+				"up": {"uv": [4, 6, 5, 7], "texture": "#1"},
+				"down": {"uv": [4, 6, 5, 7], "texture": "#1"}
+			}
+		},
+		{
+			"name": "tesla_edge_10",
+			"from": [21, 9, 8],
+			"to": [22, 10, 9],
+			"rotation": {"x": -90, "y": -45, "z": 90, "origin": [9, 0, 8]},
+			"faces": {
+				"north": {"uv": [13, 6, 12, 7], "texture": "#1"},
+				"east": {"uv": [12, 6, 13, 7], "texture": "#1"},
+				"south": {"uv": [12, 6, 13, 7], "texture": "#1"},
+				"west": {"uv": [12, 6, 13, 7], "texture": "#1"},
+				"up": {"uv": [12, 6, 13, 7], "texture": "#1"},
+				"down": {"uv": [12, 6, 13, 7], "texture": "#1"}
+			}
+		},
+		{
+			"name": "tesla_edge_11",
+			"from": [14, 1, 8],
+			"to": [16, 9, 9],
+			"rotation": {"x": -90, "y": -45, "z": 90, "origin": [9, 0, 8]},
+			"faces": {
+				"north": {"uv": [7, 7, 5, 15], "texture": "#1"},
+				"east": {"uv": [6, 7, 7, 15], "texture": "#1"},
+				"south": {"uv": [5, 7, 7, 15], "texture": "#1"},
+				"west": {"uv": [5, 7, 6, 15], "texture": "#1"},
+				"up": {"uv": [5, 7, 7, 8], "texture": "#1"},
+				"down": {"uv": [5, 14, 7, 15], "texture": "#1"}
+			}
+		},
+		{
+			"name": "tesla_edge_12",
+			"from": [9, 6, 8],
+			"to": [11, 8, 9],
+			"rotation": {"x": -90, "y": -45, "z": 90, "origin": [9, 0, 8]},
+			"faces": {
+				"north": {"uv": [2, 8, 0, 10], "texture": "#1"},
+				"east": {"uv": [1, 8, 2, 10], "texture": "#1"},
+				"south": {"uv": [0, 8, 2, 10], "texture": "#1"},
+				"west": {"uv": [0, 8, 1, 10], "texture": "#1"},
+				"up": {"uv": [0, 8, 2, 9], "texture": "#1"},
+				"down": {"uv": [0, 9, 2, 10], "texture": "#1"}
+			}
+		},
+		{
+			"name": "tesla_edge_13",
+			"from": [13, 2, 8],
+			"to": [14, 8, 9],
+			"rotation": {"x": -90, "y": -45, "z": 90, "origin": [9, 0, 8]},
+			"faces": {
+				"north": {"uv": [5, 8, 4, 14], "texture": "#1"},
+				"east": {"uv": [4, 8, 5, 14], "texture": "#1"},
+				"south": {"uv": [4, 8, 5, 14], "texture": "#1"},
+				"west": {"uv": [4, 8, 5, 14], "texture": "#1"},
+				"up": {"uv": [4, 8, 5, 9], "texture": "#1"},
+				"down": {"uv": [4, 13, 5, 14], "texture": "#1"}
+			}
+		},
+		{
+			"name": "tesla_edge_14",
+			"from": [19, 7, 8],
+			"to": [20, 8, 9],
+			"rotation": {"x": -90, "y": -45, "z": 90, "origin": [9, 0, 8]},
+			"faces": {
+				"north": {"uv": [11, 8, 10, 9], "texture": "#1"},
+				"east": {"uv": [10, 8, 11, 9], "texture": "#1"},
+				"south": {"uv": [10, 8, 11, 9], "texture": "#1"},
+				"west": {"uv": [10, 8, 11, 9], "texture": "#1"},
+				"up": {"uv": [10, 8, 11, 9], "texture": "#1"},
+				"down": {"uv": [10, 8, 11, 9], "texture": "#1"}
+			}
+		},
+		{
+			"name": "tesla_edge_15",
+			"from": [11, 1, 8],
+			"to": [13, 7, 9],
+			"rotation": {"x": -90, "y": -45, "z": 90, "origin": [9, 0, 8]},
+			"faces": {
+				"north": {"uv": [4, 9, 2, 15], "texture": "#1"},
+				"east": {"uv": [3, 9, 4, 15], "texture": "#1"},
+				"south": {"uv": [2, 9, 4, 15], "texture": "#1"},
+				"west": {"uv": [2, 9, 3, 15], "texture": "#1"},
+				"up": {"uv": [2, 9, 4, 10], "texture": "#1"},
+				"down": {"uv": [2, 14, 4, 15], "texture": "#1"}
+			}
+		},
+		{
+			"name": "tesla_edge_16",
+			"from": [10, 5, 8],
+			"to": [11, 6, 9],
+			"rotation": {"x": -90, "y": -45, "z": 90, "origin": [9, 0, 8]},
+			"faces": {
+				"north": {"uv": [2, 10, 1, 11], "texture": "#1"},
+				"east": {"uv": [1, 10, 2, 11], "texture": "#1"},
+				"south": {"uv": [1, 10, 2, 11], "texture": "#1"},
+				"west": {"uv": [1, 10, 2, 11], "texture": "#1"},
+				"up": {"uv": [1, 10, 2, 11], "texture": "#1"},
+				"down": {"uv": [1, 10, 2, 11], "texture": "#1"}
+			}
+		},
+		{
+			"name": "tesla_edge_17",
+			"from": [16, 5, 8],
+			"to": [18, 6, 9],
+			"rotation": {"x": -90, "y": -45, "z": 90, "origin": [9, 0, 8]},
+			"faces": {
+				"north": {"uv": [9, 10, 7, 11], "texture": "#1"},
+				"east": {"uv": [8, 10, 9, 11], "texture": "#1"},
+				"south": {"uv": [7, 10, 9, 11], "texture": "#1"},
+				"west": {"uv": [7, 10, 8, 11], "texture": "#1"},
+				"up": {"uv": [7, 10, 9, 11], "texture": "#1"},
+				"down": {"uv": [7, 10, 9, 11], "texture": "#1"}
+			}
+		},
+		{
+			"name": "tesla_edge_18",
+			"from": [16, 4, 8],
+			"to": [17, 5, 9],
+			"rotation": {"x": -90, "y": -45, "z": 90, "origin": [9, 0, 8]},
+			"faces": {
+				"north": {"uv": [8, 11, 7, 12], "texture": "#1"},
+				"east": {"uv": [7, 11, 8, 12], "texture": "#1"},
+				"south": {"uv": [7, 11, 8, 12], "texture": "#1"},
+				"west": {"uv": [7, 11, 8, 12], "texture": "#1"},
+				"up": {"uv": [7, 11, 8, 12], "texture": "#1"},
+				"down": {"uv": [7, 11, 8, 12], "texture": "#1"}
+			}
+		},
+		{
+			"name": "tesla_edge_19",
+			"from": [10, 0, 8],
+			"to": [11, 4, 9],
+			"rotation": {"x": -90, "y": -45, "z": 90, "origin": [9, 0, 8]},
+			"faces": {
+				"north": {"uv": [2, 12, 1, 16], "texture": "#1"},
+				"east": {"uv": [1, 12, 2, 16], "texture": "#1"},
+				"south": {"uv": [1, 12, 2, 16], "texture": "#1"},
+				"west": {"uv": [1, 12, 2, 16], "texture": "#1"},
+				"up": {"uv": [1, 12, 2, 13], "texture": "#1"},
+				"down": {"uv": [1, 15, 2, 16], "texture": "#1"}
+			}
+		},
+		{
+			"name": "tesla_edge_20",
+			"from": [9, 0, 8],
+			"to": [10, 2, 9],
+			"rotation": {"x": -90, "y": -45, "z": 90, "origin": [9, 0, 8]},
+			"faces": {
+				"north": {"uv": [1, 14, 0, 16], "texture": "#1"},
+				"east": {"uv": [0, 14, 1, 16], "texture": "#1"},
+				"south": {"uv": [0, 14, 1, 16], "texture": "#1"},
+				"west": {"uv": [0, 14, 1, 16], "texture": "#1"},
+				"up": {"uv": [0, 14, 1, 15], "texture": "#1"},
+				"down": {"uv": [0, 15, 1, 16], "texture": "#1"}
+			}
+		},
+		{
+			"name": "tesla_edge_21",
+			"from": [16, 0, 8],
+			"to": [17, 2, 9],
+			"rotation": {"x": -90, "y": -45, "z": 90, "origin": [9, 0, 8]},
+			"faces": {
+				"north": {"uv": [8, 14, 7, 16], "texture": "#1"},
+				"east": {"uv": [7, 14, 8, 16], "texture": "#1"},
+				"south": {"uv": [7, 14, 8, 16], "texture": "#1"},
+				"west": {"uv": [7, 14, 8, 16], "texture": "#1"},
+				"up": {"uv": [7, 14, 8, 15], "texture": "#1"},
+				"down": {"uv": [7, 15, 8, 16], "texture": "#1"}
+			}
+		},
+		{
+			"name": "tesla_edge_22",
+			"from": [15, 0, 8],
+			"to": [16, 1, 9],
+			"rotation": {"x": -90, "y": -45, "z": 90, "origin": [9, 0, 8]},
+			"faces": {
+				"north": {"uv": [7, 15, 6, 16], "texture": "#1"},
+				"east": {"uv": [6, 15, 7, 16], "texture": "#1"},
+				"south": {"uv": [6, 15, 7, 16], "texture": "#1"},
+				"west": {"uv": [6, 15, 7, 16], "texture": "#1"},
+				"up": {"uv": [6, 15, 7, 16], "texture": "#1"},
+				"down": {"uv": [6, 15, 7, 16], "texture": "#1"}
+			}
+		}
+	],
+	"gui_light": "front",
+	"display": {
+		"thirdperson_righthand": {
+			"rotation": [-10, 0, 0],
+			"translation": [-0.5, 1.5, 1.5],
+			"scale": [0.8, 0.8, 0.8]
+		},
+		"thirdperson_lefthand": {
+			"rotation": [-10, 0, 0],
+			"translation": [0.5, 1.5, 1.5],
+			"scale": [0.8, 0.8, 0.8]
+		},
+		"firstperson_righthand": {
+			"rotation": [11.77, 0, 0],
+			"translation": [2.5, 0, 0],
+			"scale": [0.75, 0.75, 0.75]
+		},
+		"firstperson_lefthand": {
+			"rotation": [11.77, 0, 0],
+			"translation": [1.75, 0, 0],
+			"scale": [0.75, 0.75, 0.75]
+		},
+		"ground": {
+			"rotation": [-45, 0, 0],
+			"translation": [0, 1.5, 0],
+			"scale": [0.66, 0.66, 0.66]
+		},
+		"gui": {
+			"rotation": [90, 45, -90],
+			"translation": [-2.25, -2.25, 0]
+		},
+		"fixed": {
+			"rotation": [0, -90, 0],
+			"translation": [0, -2.75, 0],
+			"scale": [0.8, 0.8, 0.8]
+		},
+		"on_shelf": {
+			"rotation": [-180, 90, -180]
+		}
+	},
+	"groups": [
+		{
+			"name": "tesla_edge",
+			"origin": [8, 8, 8],
+			"scope": 0,
+			"color": 0,
+			"children": [0, 1, 2, 3, 4, 5, 6, 7, 8, 9, 10, 11, 12, 13, 14, 15, 16, 17, 18, 19, 20, 21, 22]
+		}
+	]
+}
