@@ -4,19 +4,25 @@
 		"aj:my_blueprint": {
 			"coreFiles": ["assets/minecraft/atlases/blocks.json", "pack.mcmeta"],
 			"versionedFiles": [
+				"assets/aj/items/blueprint/my_blueprint/body.json",
 				"assets/aj/items/blueprint/my_blueprint/head.json",
 				"assets/aj/items/blueprint/my_blueprint/jaw.json",
-				"assets/aj/items/blueprint/my_blueprint/left_arm.json",
-				"assets/aj/items/blueprint/my_blueprint/lowerbody.json",
-				"assets/aj/items/blueprint/my_blueprint/right_arm.json",
-				"assets/aj/items/blueprint/my_blueprint/upperbody.json",
+				"assets/aj/items/blueprint/my_blueprint/leftarm.json",
+				"assets/aj/items/blueprint/my_blueprint/leftleg.json",
+				"assets/aj/items/blueprint/my_blueprint/lowerleftarm.json",
+				"assets/aj/items/blueprint/my_blueprint/lowerrightarm.json",
+				"assets/aj/items/blueprint/my_blueprint/rightarm.json",
+				"assets/aj/items/blueprint/my_blueprint/rightleg.json",
+				"assets/aj/models/blueprint/my_blueprint/body.json",
 				"assets/aj/models/blueprint/my_blueprint/head.json",
 				"assets/aj/models/blueprint/my_blueprint/jaw.json",
-				"assets/aj/models/blueprint/my_blueprint/left_arm.json",
-				"assets/aj/models/blueprint/my_blueprint/lowerbody.json",
-				"assets/aj/models/blueprint/my_blueprint/right_arm.json",
-				"assets/aj/models/blueprint/my_blueprint/upperbody.json",
-				"assets/aj/textures/blueprint/my_blueprint/lost_soul.png"
+				"assets/aj/models/blueprint/my_blueprint/leftarm.json",
+				"assets/aj/models/blueprint/my_blueprint/leftleg.json",
+				"assets/aj/models/blueprint/my_blueprint/lowerleftarm.json",
+				"assets/aj/models/blueprint/my_blueprint/lowerrightarm.json",
+				"assets/aj/models/blueprint/my_blueprint/rightarm.json",
+				"assets/aj/models/blueprint/my_blueprint/rightleg.json",
+				"assets/aj/textures/blueprint/my_blueprint/golem.png"
 			]
 		}
 	}
