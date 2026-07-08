@@ -177,6 +177,24 @@
             "chars": [
                     "s"
                 ]
+        },
+        {
+            "type": "bitmap",
+            "file": "font/lore_icons/crit_icon.png",
+            "ascent": 8,
+            "height": 10,
+            "chars": [
+                    "t"
+                ]
+        },
+        {
+            "type": "bitmap",
+            "file": "font/lore_icons/electric_icon.png",
+            "ascent": 8,
+            "height": 10,
+            "chars": [
+                    "u"
+                ]
         }
        
     ]
