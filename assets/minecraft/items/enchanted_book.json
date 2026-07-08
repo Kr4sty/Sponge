@@ -20,6 +20,27 @@
      "type": "model",
      "model": "item/weapons/ice_maiden"
     }
+   },
+    {
+    "when": "magical_bo_staff",
+    "model": {
+     "type": "model",
+     "model": "item/weapons/magical_bo_staff"
+    }
+   },
+    {
+    "when": "flamestrand",
+    "model": {
+     "type": "model",
+     "model": "item/weapons/flamestrand"
+    }
+   },
+    {
+    "when": "beetles_bulwark",
+    "model": {
+     "type": "model",
+     "model": "item/weapons/beetles_bulwark"
+    }
    }
   ]
  }
